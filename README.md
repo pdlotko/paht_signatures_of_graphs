@@ -1,1 +1,1 @@
-# paht_signatures_of_graphs
+# A code to compute path signatures of graphs.
